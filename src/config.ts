@@ -87,7 +87,7 @@ export const commentConfig: CommentConfig = {
     reactionsEnabled: '1',
     emitMetadata: '1',
     inputPosition: 'top',
-    theme: 'light',
+    theme: 'preferred_color_scheme',
     lang: 'id',
     loading: 'lazy',
  },
