@@ -75,7 +75,7 @@ export const licenseConfig: LicenseConfig = {
 
 export const commentConfig: CommentConfig = {
   disqus: {
-    shortname: 'fuwari',
+    shortname: 'fooiskandar',
   },
   // giscus: {
   //   repo: 'moeyua/fuwari',
