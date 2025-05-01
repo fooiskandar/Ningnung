@@ -89,21 +89,21 @@ export const commentConfig: CommentConfig = {
   //disqus: {
   //  shortname: 'fooiskandar',
   //},
-  giscus: {
-    repo: 'fooiskandar/Ningnung',
-    repoId: 'R_kgDOOiayEA',
-    category: 'Announcements',
-    categoryId: 'DIC_kwDOOiayEM4Cppj8',
-    mapping: 'title',
-    strict: '0',
-    reactionsEnabled: '1',
-    emitMetadata: '1',
-    inputPosition: 'top',
-    theme: 'preferred_color_scheme',
-    lang: 'id',
-    loading: 'lazy',
- },
-  // twikoo: {
-  //   envId: 'https://twikoo-tau-flame.vercel.app',
-  // },
+  //giscus: {
+    //repo: 'fooiskandar/Ningnung',
+    //repoId: 'R_kgDOOiayEA',
+    //category: 'Announcements',
+    //categoryId: 'DIC_kwDOOiayEM4Cppj8',
+    //mapping: 'title',
+    //strict: '0',
+    //reactionsEnabled: '1',
+    //emitMetadata: '1',
+    //inputPosition: 'top',
+    //theme: 'preferred_color_scheme',
+    //lang: 'id',
+    //loading: 'lazy',
+ //},
+  twikoo: {
+     envId: 'https://twikoo-tau-flame.vercel.app',
+   },
 }
