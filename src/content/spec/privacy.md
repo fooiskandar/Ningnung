@@ -1,3 +1,5 @@
+# Privacy Policy
+
 Kami berkomitmen untuk melindungi privasi dari pengunjung website kami, dan kebijakan ini mengatur bagaimana cara kami memperlakukan informasi pribadi anda ketika anda berkunjung ke website kami.
 
 ## Informasi yang kami kumpulkan
