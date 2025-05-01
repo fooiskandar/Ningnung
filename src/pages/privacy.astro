@@ -9,7 +9,7 @@ import Markdown from "@components/misc/Markdown.astro";
 
 const privacyPost = await getEntry('spec', 'privacy')
 
-const { Content } = await disclaimerPost.render()
+const { Content } = await privacyPost.render()
 
 ---
 <MainGridLayout title={i18n(I18nKey.privacy)} description={i18n(I18nKey.privacy)}>
