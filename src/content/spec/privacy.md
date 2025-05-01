@@ -29,4 +29,4 @@ Kami dapat saja memperbaharui kebijakan privasi ini dari waktu ke waktu dengan m
 Website ini terhubung dengan website milik Mitra dan Pemasang Media Promosi. Kami tidak bertanggung jawab atas kebijakan privasi yang diterapkan di website milik Mitra dan Pemasang Media Promosi tersebut.
 
 ## Kontak
-Jika anda memiliki pertanyaan tentang kebijakan privasi ini atau perlakuan kami atas data pribadi anda, anda dapat mengirimkan pesan melalui halaman kontak atau melalui email: fooiskandar@gmail.com
+Jika anda memiliki pertanyaan tentang kebijakan privasi ini atau perlakuan kami atas data pribadi anda, anda dapat mengirimkan pesan melalui halaman [kontak](/contact/) atau melalui email: [fooiskandar@gmail.com](mailto:fooiskandar@gmail.com)
