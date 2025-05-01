@@ -8,7 +8,7 @@ export const id: Translation = {
   [Key.search]: 'Pencarian',
   [Key.contact]: 'Kontak',
   [Key.disclaimer]: 'Disclaimer',
-  [key.privacy]: 'Privacy',
+  [Key.privacy]: 'Privacy',
 
   [Key.tags]: 'Tag',
   [Key.categories]: 'Kategori',
