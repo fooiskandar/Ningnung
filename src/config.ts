@@ -34,10 +34,11 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
+    LinkPreset.Contact,
+    //{
+    //  name: 'GitHub',
+    //  url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
+    //  external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
@@ -49,20 +50,31 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
+      icon: 'fa6-brands:x-twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/fooiskandar05',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'Facebook',
+      icon: 'fa6-brands:facebook',
+      url: 'https://facebook.com/fooiskandar',
     },
+    {
+      name: 'Bluesky',
+      icon: 'fa6-brands:bluesky',
+      url: 'https://bsky.app/profile/fooiskandar.bsky.social',
+    },
+    {
+      name: 'Pinterest',
+      icon: 'fa6-brands:square-pinterest',
+      url: 'https://pinterest.com/fooiskandar/',
+    },
+    
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/fooiskandar/',
     },
   ],
 }
