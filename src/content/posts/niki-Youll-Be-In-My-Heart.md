@@ -7,7 +7,7 @@ image: https://upld.zone.id/uploads/agiru5iq/niki.webp
 draft: false
 ---
 
-<iframe width="100%" height="468" src="https://youtu.be/g3p3n-V7XxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Youll Be In My Heart](http://img.youtube.com/vi/g3p3n-V7XxM/0.jpg)](http://www.youtube.com/watch?v=g3p3n-V7XxM)
 
 # You'll Be In My Heart
 
