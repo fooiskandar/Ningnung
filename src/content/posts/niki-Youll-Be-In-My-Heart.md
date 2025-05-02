@@ -7,7 +7,7 @@ image: https://upld.zone.id/uploads/agiru5iq/niki.webp
 draft: false
 ---
 
-# NIKI - You'll Be In My Heart
+# You'll Be In My Heart
 
 > Come stop your crying
 > It will be alright
